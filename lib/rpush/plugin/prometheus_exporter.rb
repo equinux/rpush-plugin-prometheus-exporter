@@ -1,4 +1,5 @@
 require "prometheus_exporter/client"
+require "prometheus_exporter/metric"
 
 plugin = Rpush.plugin(:prometheus_exporter)
 plugin.url = "https://github.com/equinux/rpush-plugin-prometheus-exporter"

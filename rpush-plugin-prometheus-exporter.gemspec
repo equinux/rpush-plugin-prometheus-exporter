@@ -1,7 +1,7 @@
 # coding: utf-8
 Gem::Specification.new do |spec|
   spec.name = "rpush-plugin-prometheus-exporter"
-  spec.version = "0.0.1"
+  spec.version = "0.0.2"
   spec.authors = ["Maximilian Szengel"]
   spec.email = ["szengel@equinux.com"]
   spec.summary = "Rpush plugin for prometheus_exporter."
